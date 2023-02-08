@@ -1,2 +1,1 @@
-# xpub-xprv-to-zpub-zprv-converter
-convert xpub/xprv to zpub/zprv 
+CONVERT BIP32 ROOT KEY from xPrv to others 
